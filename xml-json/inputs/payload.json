@@ -1,0 +1,14 @@
+<Properties>
+<Property>
+<Name>first</Name>
+<Value>hello</Value>
+</Property>
+<Property>
+<Name>second</Name>
+<Value>im</Value>
+</Property>
+<Property>
+<Name>third</Name>
+<Value>stuck</Value>
+</Property>
+</Properties>
